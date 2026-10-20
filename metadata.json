@@ -1,0 +1,6 @@
+{
+  "name": "Persian AI Dubber",
+  "description": "استودیوی دوبله خودکار، همگام‌سازی لب (Lip-Sync) و زیرنویس فارسی با هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
